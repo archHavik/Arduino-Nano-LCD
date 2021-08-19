@@ -4,7 +4,8 @@
 
 # In this project, I soldered a 4 Digit 7 Segment display to an Arduino Nano via perfboard.
 # Afterwards, I programmed the arduino to accept serial signals from my Python script, and print out a number on the LCD based on the serial input.
-# In this case, I sent a 1 to the arduino every time I clicked my mouse on my PC.
+# In this case, I sent a 1 to the arduino every time I clicked my mouse on my PC. 
+# mouseCounter.ino is now obsolete, mouseCounterv2.ino is what I am currently running.
 
 # Here are some of the places where I found inspiration and useful information:
 # Wiring and 7 segment display programming:
